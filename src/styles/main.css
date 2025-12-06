@@ -19,9 +19,9 @@
 
 
 
-/* 导入 萝莉体 第二版 字体 */
+/* 导入 LXGWWenKaiScreen 字体 */
 @font-face {
-	font-family: "LXGWWenKaiScreen.ttf";
+	font-family: "LXGWWenKaiScreen";
 	src: url("/assets/font/LXGWWenKaiScreen.woff2") format("woff2");
 	font-style: normal;
 	font-weight: 400;
