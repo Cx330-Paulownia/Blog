@@ -23,7 +23,6 @@
 @font-face {
 	font-family: "LXGWWenKaiScreen";
 	src: url("/assets/font/LXGWWenKaiScreen.ttf") format("truetype");
-	font-style: normal;
 	font-weight: 500;
 	font-display: swap;
 }
